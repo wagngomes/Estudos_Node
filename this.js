@@ -57,3 +57,5 @@ console.log(retangle_xx.Area)
 //O set é uma forma de criar uma propriedade que pode ser modificada, ou seja,
 // uma propriedade que pode ser atribuída a um valor. 
 // No exemplo acima, as propriedades x e y são criadas como setters,
+
+
