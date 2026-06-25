@@ -13,6 +13,7 @@ Repositório com exemplos práticos implementados durante a Masterclass de JavaS
 | [call_apply.js](call_apply.js) | `call`, `apply` e `bind`: alteração do contexto de execução |
 | [new.js](new.js) | Palavra-chave `new`: funções construtoras, prototype e implementação manual de `_new` |
 | [instanceOf.js](instanceOf.js) | Operador `instanceof`: cadeia de protótipos e implementação manual de `_instanceof` |
+| [closures.js](closures.js) | Closures: escopo léxico estático, referências compartilhadas e IIFE com `bind` |
 
 ## Tópicos abordados
 
@@ -23,6 +24,7 @@ Repositório com exemplos práticos implementados durante a Masterclass de JavaS
 - **`call` / `apply` / `bind`** — invocação com contexto explícito; diferença entre argumentos individuais e array
 - **Funções construtoras e `new`** — criação de objetos via factory function, `Object.setPrototypeOf`, prototype compartilhado e simulação do `new`
 - **`instanceof`** — verificação da cadeia de protótipos e implementação recursiva manual
+- **Closures** — escopo léxico estático, referências compartilhadas entre funções, IIFE e uso de `bind` para capturar o estado do loop
 
 ## Como executar
 
